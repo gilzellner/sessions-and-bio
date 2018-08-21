@@ -8,7 +8,7 @@ About 5 min to 40 mins
 
 ## Target audience and level
 
-Anyone from teenagers to adults
+Anyone
 
 ## Short Abstract (299 chars)
 
