@@ -23,3 +23,10 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 
 [![How not to Burn out your Production Team - English](http://img.youtube.com/vi/I_XI2hFPuQI/0.jpg)](https://www.youtube.com/watch?v=I_XI2hFPuQI)
 
+[![Baby Production System - Hebrew](http://img.youtube.com/vi/EySFKvu7q1A/0.jpg)](https://www.youtube.com/watch?v=EySFKvu7q1A)
+
+[![Rinse and Repeat - English](http://img.youtube.com/vi/paysR3pNlrk/0.jpg)](https://www.youtube.com/watch?v=paysR3pNlrk)
+
+[![How to get Your engineers to care about your AWS bill - Hebrew](http://img.youtube.com/vi/8gvArogcwzo/0.jpg)](https://www.youtube.com/watch?v=8gvArogcwzo)
+
+[![From Ops to Dev and back again - English](http://img.youtube.com/vi/kiPRWllQdt4/0.jpg)](https://www.youtube.com/watch?v=kiPRWllQdt4)
