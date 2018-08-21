@@ -20,3 +20,6 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 ### Lecture YouTube videos
 
 [![How not to Burn out your Production Team - Hebrew](http://img.youtube.com/vi/8MWVImfoctU/0.jpg)](https://www.youtube.com/watch?v=8MWVImfoctU)
+
+[![How not to Burn out your Production Team - English](http://img.youtube.com/vi/I_XI2hFPuQI/0.jpg)](https://www.youtube.com/watch?v=I_XI2hFPuQI)
+
