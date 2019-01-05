@@ -42,3 +42,7 @@ How to get Your engineers to care about your AWS bill - Hebrew
 From Ops to Dev and back again - English
 
 [![From Ops to Dev and back again - English](http://img.youtube.com/vi/kiPRWllQdt4/0.jpg)](https://www.youtube.com/watch?v=kiPRWllQdt4)
+
+The unsung glory of internal tools - English
+
+[![The unsung glory of internal tools - English](http://img.youtube.com/vi/fl0NJCnkhI0/0.jpg)](https://www.youtube.com/watch?v=fl0NJCnkhI0)
