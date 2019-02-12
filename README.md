@@ -27,9 +27,13 @@ How not to Burn out your Production Team - English
 
 [![How not to Burn out your Production Team - English](http://img.youtube.com/vi/I_XI2hFPuQI/0.jpg)](https://www.youtube.com/watch?v=I_XI2hFPuQI)
 
-From Ops to Dev and back again - English
+From Ops to Dev and back again - ignite - English
 
-[![From Ops to Dev and back again - English](http://img.youtube.com/vi/kiPRWllQdt4/0.jpg)](https://www.youtube.com/watch?v=kiPRWllQdt4)
+[![From Ops to Dev and back again - ignite - English](http://img.youtube.com/vi/kiPRWllQdt4/0.jpg)](https://www.youtube.com/watch?v=kiPRWllQdt4)
+
+From Ops to Dev and back again - full talk - English
+
+[![From Ops to Dev and back again - full talk - English](http://img.youtube.com/vi/nSrKaYhWDnc/0.jpg)](https://www.youtube.com/watch?v=nSrKaYhWDnc)
 
 How not to Burn out your Production Team - Hebrew
 
