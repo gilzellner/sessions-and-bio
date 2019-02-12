@@ -7,7 +7,7 @@ About 5 min to 40 mins
 
 ## Video
 
-None yet, waiting for Devops Pro RU 2018 videos
+[![From Ops to Dev and back again - full talk - English](http://img.youtube.com/vi/nSrKaYhWDnc/0.jpg)](https://www.youtube.com/watch?v=nSrKaYhWDnc)
 
 ## Slides
 
