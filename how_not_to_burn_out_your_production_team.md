@@ -5,15 +5,17 @@
 
 About 5 min to 40 mins 
 
-## Video
-
-How not to Burn out your Production Team - Hebrew
-
-[![How not to Burn out your Production Team - Hebrew](http://img.youtube.com/vi/8MWVImfoctU/0.jpg)](https://www.youtube.com/watch?v=8MWVImfoctU)
+## Video - 10 minute ignite (English)
 
 How not to Burn out your Production Team - English
 
 [![How not to Burn out your Production Team - English](http://img.youtube.com/vi/I_XI2hFPuQI/0.jpg)](https://www.youtube.com/watch?v=I_XI2hFPuQI)
+
+## Video - Full Talk (Hebrew)
+
+How not to Burn out your Production Team - Hebrew
+
+[![How not to Burn out your Production Team - Hebrew](http://img.youtube.com/vi/8MWVImfoctU/0.jpg)](https://www.youtube.com/watch?v=8MWVImfoctU)
 
 ## Slides
 
