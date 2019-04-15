@@ -5,9 +5,14 @@
 
 About 5 min to 40 mins
 
-## Video
+## Video - Full Talk
 
 [![From Ops to Dev and back again - full talk - English](http://img.youtube.com/vi/nSrKaYhWDnc/0.jpg)](https://www.youtube.com/watch?v=nSrKaYhWDnc)
+
+## Video - 5 minute ignite
+
+[![From Ops to Dev and back again - full talk - English](http://img.youtube.com/vi/kiPRWllQdt4/0.jpg)](https://www.youtube.com/watch?v=kiPRWllQdt4)
+
 
 ## Slides
 
