@@ -10,7 +10,7 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 ## Current Talk Proposals 
 
 ###  Talks
-- [DevOps@Home](devops_at_home.md)
+- [Optimizing for Happiness](optimizing_for_happiness.md)
 - [BabyProductionSystem](baby_production_system.md)
 - [From Ops to Dev and Back Again](from_ops_to_dev_and_back_again.md)
 - [How not to Burn out your Production Team](how_not_to_burn_out_your_production_team.md)
