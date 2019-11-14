@@ -20,6 +20,10 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 
 ### Lecture YouTube videos
 
+Why you should do public speaking and why ignites are the right place to start
+
+[![Why you should do public speaking and why ignites are the right place to start]](https://drive.google.com/file/d/1l3Y71UexFyNRt2PTyJaMrs_Rghsb-M3W/view?usp=sharing)
+
 The unsung glory of internal tools - English
 
 [![The unsung glory of internal tools - English](http://img.youtube.com/vi/fl0NJCnkhI0/0.jpg)](https://www.youtube.com/watch?v=fl0NJCnkhI0)
