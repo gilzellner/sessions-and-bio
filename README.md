@@ -11,7 +11,7 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 
 Why you should do public speaking and why ignites are the right place to start
 
-[![Why you should do public speaking and why ignites are the right place to start - English](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F39781895%2Fgoogle-docs-iframe-not-show-every-pdf-file&psig=AOvVaw2bxv_RlfBuYCQy9QbtTDVj&ust=1577801166395000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJifn8PF3eYCFQAAAAAdAAAAABAD)](https://drive.google.com/file/d/1l3Y71UexFyNRt2PTyJaMrs_Rghsb-M3W/view?usp=sharing)
+[![Why you should do public speaking and why ignites are the right place to start - English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/file/d/1l3Y71UexFyNRt2PTyJaMrs_Rghsb-M3W/view?usp=sharing)
 
 The unsung glory of internal tools - English
 
