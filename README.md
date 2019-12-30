@@ -8,8 +8,12 @@ Gil Zellner, DevOps enthusiast and professional, experienced tech speaker.
 Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesessed with technical things and how we humans interact with them. 
 
 ### Lecture YouTube videos
+How to have a great BBQ at Scale - English
 
-Why you should do public speaking and why ignites are the right place to start
+[![How to have a great BBQ at Scale- English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/open?id=12M60IWZTdMSo4EyI1O2_ncpKcJu4dinN)
+
+
+Why you should do public speaking and why ignites are the right place to start - English
 
 [![Why you should do public speaking and why ignites are the right place to start - English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/file/d/1l3Y71UexFyNRt2PTyJaMrs_Rghsb-M3W/view?usp=sharing)
 
