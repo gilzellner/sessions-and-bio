@@ -10,7 +10,7 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 ### Lecture YouTube videos
 How to have a great BBQ at Scale - English
 
-[![How to have a great BBQ at Scale- English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/open?id=12M60IWZTdMSo4EyI1O2_ncpKcJu4dinN)
+[![How to have a great BBQ at Scale- English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/file/d/1VZsXd3PwZ2vslRq-SUo5fFtHBe03VagL/view?usp=sharing)
 
 
 Why you should do public speaking and why ignites are the right place to start - English
