@@ -9,25 +9,26 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 
 ### Lecture YouTube videos
 
-Why you should do public speaking and why ignites are the right place to start - English
+How not to Burn out your Production Team - English
 
-[![Why you should do public speaking and why ignites are the right place to start - English](http://img.youtube.com/vi/c7egVuNMPl0/0.jpg)](https://www.youtube.com/watch?v=c7egVuNMPl0)
-
-How to have a great BBQ at Scale - English
-
-[![How to have a great BBQ at Scale- English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/file/d/1VZsXd3PwZ2vslRq-SUo5fFtHBe03VagL/view?usp=sharing)
+[![How not to Burn out your Production Team - English](http://img.youtube.com/vi/I_XI2hFPuQI/0.jpg)](https://www.youtube.com/watch?v=I_XI2hFPuQI)
 
 The unsung glory of internal tools - English
 
 [![The unsung glory of internal tools - English](http://img.youtube.com/vi/fl0NJCnkhI0/0.jpg)](https://www.youtube.com/watch?v=fl0NJCnkhI0)
 
-How not to Burn out your Production Team - English
+Why you should do public speaking and why ignites are the right place to start - English
 
-[![How not to Burn out your Production Team - English](http://img.youtube.com/vi/I_XI2hFPuQI/0.jpg)](https://www.youtube.com/watch?v=I_XI2hFPuQI)
+[![Why you should do public speaking and why ignites are the right place to start - English](http://img.youtube.com/vi/c7egVuNMPl0/0.jpg)](https://www.youtube.com/watch?v=c7egVuNMPl0)
 
 From Ops to Dev and back again - ignite - English
 
 [![From Ops to Dev and back again - ignite - English](http://img.youtube.com/vi/kiPRWllQdt4/0.jpg)](https://www.youtube.com/watch?v=kiPRWllQdt4)
+
+How to have a great BBQ at Scale - English
+
+[![How to have a great BBQ at Scale- English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/file/d/1VZsXd3PwZ2vslRq-SUo5fFtHBe03VagL/view?usp=sharing)
+
 
 From Ops to Dev and back again - full talk - English
 
