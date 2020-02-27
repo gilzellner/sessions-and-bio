@@ -1,5 +1,5 @@
 ## Title: 
-### Jenkins: the ultimate tool
+### Jenkins: the ultimate quick and dirty tool
 
 ## Session duration
 
