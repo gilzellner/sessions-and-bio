@@ -59,5 +59,6 @@ How to get Your engineers to care about your AWS bill - Hebrew
 - [How not to Burn out your Production Team](how_not_to_burn_out_your_production_team.md)
 - [Rinse and repeat](rinse_and_repeat.md)
 - [The unsung Glory of internal tools](the_unsung_glory_of_internal_tools.md)
-- [Jenkins - the ultimate tool](jenkins-ultimate-tool.md)
+- [Jenkins - the ultimate quick and dirty tool](jenkins-ultimate-tool.md)
+- [Why your Tech Debt is like Tetris](tech-debt-tetris.md)
 
