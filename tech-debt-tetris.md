@@ -3,7 +3,7 @@
 
 ## Session duration
 
-About 5 min to 40 mins
+About 5 min 
 
 ## Video
 
@@ -19,6 +19,7 @@ Anyone
 
 ## Short Abstract (299 chars)
 
+Based on these 2 articles (https://www.fluentcpp.com/2020/01/17/technical-debt-is-like-a-tetris-game/ and https://www.colinodell.com/blog/201706/technical-debt-tetris), I demonstrate the relation between Tetris and tech debt, and show a way to leverage Tetris to help with your Tech Debt.
 
 ## Long Abstract
 
