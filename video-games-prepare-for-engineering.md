@@ -3,7 +3,7 @@
 
 ## Session duration
 
-About 15 min 
+About 8 min 
 
 ## Video
 
