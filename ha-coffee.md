@@ -7,7 +7,8 @@ About 5 min to 20 mins
 
 ## Target audience and level
 
-Beginner Gophers
+Ignite: Everyone
+Longer version: Beginner Gophers
 
 ## Short Abstract (299 chars)
 
