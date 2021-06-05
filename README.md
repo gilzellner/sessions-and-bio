@@ -66,5 +66,7 @@ How to get Your engineers to care about your AWS bill - Hebrew
 - [Jenkins - the ultimate quick and dirty tool](jenkins-ultimate-tool.md)
 - [Why your Tech Debt is like Tetris](tech-debt-tetris.md)
 - [From Scripts to APIs](scripts-to-apis.md)
+- [How to better onboard during wfh](wfh-onboarding.md)
+- [HA-Coffee](ha-coffee.md)
 - [How Video games have prepared me for a life in engineering](video-games-prepare-for-engineering.md)
 
