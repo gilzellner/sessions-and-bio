@@ -70,5 +70,5 @@ How to get Your engineers to care about your AWS bill - Hebrew
 - [HA-Coffee](ha-coffee.md)
 - [How Video games have prepared me for a life in engineering](video-games-prepare-for-engineering.md)
 - [Not everything is like your production system](not-everything-is-like-your-production-system.md)
-- [How I made my onboarding better during corona times](how-to-onboard-during-pandemic.md)
+- [How I made my onboarding better during corona times](wfh-onboarding.md)
 
