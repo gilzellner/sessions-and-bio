@@ -12,6 +12,7 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 How video games have prepared me for a life in engineering - ignite - English
 
 [![How video games have prepared me for a life in engineering - ignite - English](http://img.youtube.com/vi/9EBYm1Y-LWo/0.jpg)](https://www.youtube.com/watch?v=9EBYm1Y-LWo)
+[![How video games have prepared me for a life in engineering - ignite - Hebrew](http://img.youtube.com/vi/BFVC4NkFPL0/0.jpg)](https://www.youtube.com/watch?v=BFVC4NkFPL0)
 
 How not to Burn out your Production Team - English
 
