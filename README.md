@@ -9,6 +9,10 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 
 ### Lecture YouTube videos
 
+HA Coffee - English
+
+[![HA-Coffee - English](http://img.youtube.com/vi/fwYAEuy1hS4/0.jpg)](https://www.youtube.com/watch?v=fwYAEuy1hS4)
+
 How video games have prepared me for a life in engineering - ignite - English
 
 [![How video games have prepared me for a life in engineering - ignite - English](http://img.youtube.com/vi/9EBYm1Y-LWo/0.jpg)](https://www.youtube.com/watch?v=9EBYm1Y-LWo)
