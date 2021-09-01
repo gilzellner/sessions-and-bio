@@ -31,7 +31,7 @@ The unsung glory of internal tools - English
 
 Death By Balloons (With Elad Leev, from sponsor track for AppsFlyer) - English
 
-[![Death By Balloons - English](http://img.youtube.com/vi/RnfpJCa2QfM/1.jpg)](https://www.youtube.com/watch?v=RnfpJCa2QfM)
+[![Death By Balloons - English](http://img.youtube.com/vi/RnfpJCa2QfM/2.jpg)](https://www.youtube.com/watch?v=RnfpJCa2QfM)
 
 Why you should do public speaking and why ignites are the right place to start - English
 
