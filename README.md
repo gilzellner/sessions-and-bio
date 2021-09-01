@@ -31,7 +31,7 @@ The unsung glory of internal tools - English
 
 Death By Balloons (With Elad Leev, from sponsor track for AppsFlyer) - English
 
-[![Death By Balloons - English](http://img.youtube.com/vi/RnfpJCa2QfM/0.jpg)](https://www.youtube.com/watch?v=RnfpJCa2QfM)
+[![Death By Balloons - English](http://img.youtube.com/vi/RnfpJCa2QfM/1.jpg)](https://www.youtube.com/watch?v=RnfpJCa2QfM)
 
 Why you should do public speaking and why ignites are the right place to start - English
 
@@ -44,7 +44,6 @@ From Ops to Dev and back again - ignite - English
 How to have a great BBQ at Scale - English
 
 [![How to have a great BBQ at Scale- English](http://www.fsxaddons.com/static/img/no-preview.jpg)](https://drive.google.com/file/d/1VZsXd3PwZ2vslRq-SUo5fFtHBe03VagL/view?usp=sharing)
-
 
 From Ops to Dev and back again - full talk - English
 
