@@ -67,19 +67,20 @@ How to get Your engineers to care about your AWS bill - Hebrew
 
 ## Current Talk Proposals 
 
-###  Talks
 - [Optimizing for Happiness](optimizing_for_happiness.md)
+- [Jenkins - the ultimate quick and dirty tool](jenkins-ultimate-tool.md)
+- [From Scripts to APIs](scripts-to-apis.md)
+- [How to better onboard during wfh](wfh-onboarding.md)
+- [Not everything is like your production system](not-everything-is-like-your-production-system.md)
+- [How I made my onboarding better during corona times](wfh-onboarding.md)
+
+###  Old Talks
 - [BabyProductionSystem](baby_production_system.md)
 - [From Ops to Dev and Back Again](from_ops_to_dev_and_back_again.md)
 - [How not to Burn out your Production Team](how_not_to_burn_out_your_production_team.md)
 - [Rinse and repeat](rinse_and_repeat.md)
 - [The unsung Glory of internal tools](the_unsung_glory_of_internal_tools.md)
-- [Jenkins - the ultimate quick and dirty tool](jenkins-ultimate-tool.md)
 - [Why your Tech Debt is like Tetris](tech-debt-tetris.md)
-- [From Scripts to APIs](scripts-to-apis.md)
-- [How to better onboard during wfh](wfh-onboarding.md)
 - [HA-Coffee](ha-coffee.md)
 - [How Video games have prepared me for a life in engineering](video-games-prepare-for-engineering.md)
-- [Not everything is like your production system](not-everything-is-like-your-production-system.md)
-- [How I made my onboarding better during corona times](wfh-onboarding.md)
 
