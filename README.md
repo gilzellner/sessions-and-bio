@@ -13,6 +13,9 @@ Not everything is like a production system - ignite - English (ignore the hebrew
 
 [![Not everything is like a production system - English](http://img.youtube.com/vi/6NNRSpExM9s/0.jpg)](https://www.youtube.com/watch?v=6NNRSpExM9s&t=542s)
 
+[![Not everything is like a production system - Hebrew](http://img.youtube.com/vi/lXldwX1mVWw/0.jpg)](https://www.youtube.com/watch?v=lXldwX1mVWw
+)
+
 HA Coffee - ignite - English
 
 [![HA-Coffee - English](http://img.youtube.com/vi/fwYAEuy1hS4/0.jpg)](https://www.youtube.com/watch?v=fwYAEuy1hS4)
