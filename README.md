@@ -9,15 +9,6 @@ Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesesse
 
 ### Lecture YouTube videos
 
-Not everything is like a production system - ignite - English (ignore the hebrew intro)
-
-[![Not everything is like a production system - English](http://img.youtube.com/vi/6NNRSpExM9s/0.jpg)](https://www.youtube.com/watch?v=6NNRSpExM9s&t=542s)
-
-Not everything is like a production system - ignite - Hebrew
-
-[![Not everything is like a production system - Hebrew](http://img.youtube.com/vi/lXldwX1mVWw/0.jpg)](https://www.youtube.com/watch?v=lXldwX1mVWw
-)
-
 HA Coffee - ignite - English
 
 [![HA-Coffee - English](http://img.youtube.com/vi/fwYAEuy1hS4/0.jpg)](https://www.youtube.com/watch?v=fwYAEuy1hS4)
@@ -25,6 +16,14 @@ HA Coffee - ignite - English
 How video games have prepared me for a life in engineering - ignite - English
 
 [![How video games have prepared me for a life in engineering - ignite - English](http://img.youtube.com/vi/9EBYm1Y-LWo/0.jpg)](https://www.youtube.com/watch?v=9EBYm1Y-LWo)
+
+Not everything is like a production system - ignite - English (ignore the hebrew intro)
+
+[![Not everything is like a production system - English](http://img.youtube.com/vi/6NNRSpExM9s/0.jpg)](https://www.youtube.com/watch?v=6NNRSpExM9s&t=542s)
+
+Not everything is like a production system - ignite - Hebrew
+
+[![Not everything is like a production system - Hebrew](http://img.youtube.com/vi/lXldwX1mVWw/0.jpg)](https://www.youtube.com/watch?v=lXldwX1mVWw)
 
 How video games have prepared me for a life in engineering - ignite - Hebrew
 
